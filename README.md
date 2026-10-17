@@ -1,6 +1,6 @@
 # RileyMusic-Discord-Bot-
 
-Just a simple music bot with all features you will need to listen songs alone or with your friends during voice chats :)            <img width="1280" height="1280" alt="image" src="https://github.com/user-attachments/assets/f658996a-959f-4403-af7f-2fc7a9bb5ebb" />
+Just a simple music bot with all features you will need to listen songs alone or with your friends during voice chats :)            <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/f658996a-959f-4403-af7f-2fc7a9bb5ebb" />
    
 
 Made with love (and a lil' of vibecoding cuz i'm still a beginner-) by mossyanima
