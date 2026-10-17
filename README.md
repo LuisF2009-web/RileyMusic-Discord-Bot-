@@ -6,6 +6,8 @@ Made with love (and a lil' of vibecoding cuz i'm still a beginner-) by mossyanim
 
 Still in W.I.P feel free to test it yourself: https://discord.com/oauth2/authorize?client_id=859121266660474941&permissions=2150714368&integration_type=0&scope=bot
 
+# FORKING
+
 First of all, if you wanna fork this project for using it within your own bot, give the credits to this repository.
 
 After the fork, scroll to the end of the code and change "YOUR TOKEN HERE" to your actual discord bot token, you can get it on Discord Developer Portal in the Bot panel.
