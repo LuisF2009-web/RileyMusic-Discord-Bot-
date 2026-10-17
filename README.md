@@ -11,7 +11,7 @@ Still in W.I.P feel free to test it yourself: https://discord.com/oauth2/authori
 
 First of all, if you wanna fork this project for using it within your own bot, give the credits to this repository.
 
-After the fork, scroll to the end of the code and change "YOUR TOKEN HERE" to your actual discord bot token, you can get it trough Discord Developer Portal in the Bot panel.
+After forking, scroll to the end of the code and change "YOUR TOKEN HERE" to your actual discord bot token, you can get it on Discord Developer Portal trough the Bot panel.
 Tokens can only be seen for ONLY one time because they're the main door the code use to access your bot so copy it and store in a safe place and NEVER SHARE YOUR TOKEN PUBLICLY
 
 Then you'll need a cookie.txt in the same directory as the bot main archive if you gonna host it. Install Get Cookies.txt LOCALLY extension (https://chromewebstore.google.com/detail/get-cookiestxt-locally/cclelndahbckbenkjhflpdbgdldlbecc?hl=pt-BR&utm_source=ext_sidebar) 
